@@ -29,6 +29,8 @@ Install it [here](https://www.trufflesuite.com/ganache)
 
 Truffle is a world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier. We will be using it to deploy our smart contract to our local blockchain.
 
+Install it with `npm install -g truffle`
+
 - ## Getting Started
 
 After cloning, `cd` to the root of the project directory. Run an npm install to install the npm `dotenv` module. This will allow you to pipe in your host address and port number using a `.env` file. You'll need to create this file in the root of your project.
